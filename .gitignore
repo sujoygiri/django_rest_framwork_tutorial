@@ -1,2 +1,5 @@
 /django_rest_framwork_tutorial.code-workspace
 
+__pycache__
+migrations
+db.sqlite3
